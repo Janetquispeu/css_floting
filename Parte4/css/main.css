@@ -1,0 +1,26 @@
+*{
+	box-sizing: border-box;
+}
+.caja-padre{
+	width: 600px;
+	border: 1px solid #A4A4A4;
+	overflow: hidden;
+}
+.yellow{
+	width: 150px;
+	height: 100px;
+	background-color: yellow;
+	float: left;
+}
+.celeste{
+	width: 150px;
+	height: 100px;
+	background-color: #3A81BA;
+	float: left;
+}
+.rosado{
+	width: 150px;
+	height: 100px;
+	background-color: #ED2251;
+	float: left;
+}

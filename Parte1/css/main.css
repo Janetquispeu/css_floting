@@ -1,0 +1,28 @@
+*{
+	box-sizing: border-box;
+}
+.caja{
+	width: 600px;
+	height: 302px;
+	border: 1px solid #A4A4A4;
+}
+.yellow{
+	width: 150px;
+	height: 100px;
+	background-color: yellow;
+
+}
+.celeste{
+	width: 150px;
+	height: 100px;
+	background-color: #3A81BA;
+
+}
+.rosado{
+	width: 150px;
+	height: 100px;
+	background-color: #ED2251
+	;
+
+}
+
